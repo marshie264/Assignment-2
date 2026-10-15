@@ -1,0 +1,322 @@
+[
+  {
+    "node_count": 1,
+    "type": "event",
+    "created": "2026-09-01 08:30:00",
+    "description": "Alex Rivera attended the first day of the fall semester at Cedar Valley University.",
+    "poignancy": 5,
+    "embedding_key": "Alex Rivera attended the first day of the fall semester at Cedar Valley University."
+  },
+  {
+    "node_count": 2,
+    "type": "chat",
+    "created": "2026-09-01 12:10:00",
+    "description": "Alex talked with friend Jordan Lee about their class schedules over lunch at Maple Cafe.",
+    "poignancy": 4,
+    "embedding_key": "Alex talked with friend Jordan Lee about their class schedules over lunch at Maple Cafe."
+  },
+  {
+    "node_count": 3,
+    "type": "thought",
+    "created": "2026-09-01 19:40:00",
+    "description": "Alex wants to improve time management this semester by planning assignments every Sunday.",
+    "poignancy": 6,
+    "embedding_key": "Alex wants to improve time management this semester by planning assignments every Sunday."
+  },
+  {
+    "node_count": 4,
+    "type": "event",
+    "created": "2026-09-02 09:00:00",
+    "description": "Alex joined an introductory data science course taught by Professor Morgan.",
+    "poignancy": 6,
+    "embedding_key": "Alex joined an introductory data science course taught by Professor Morgan."
+  },
+  {
+    "node_count": 5,
+    "type": "chat",
+    "created": "2026-09-02 16:20:00",
+    "description": "Alex and classmate Priya Shah discussed forming a study group for data science.",
+    "poignancy": 5,
+    "embedding_key": "Alex and classmate Priya Shah discussed forming a study group for data science."
+  },
+  {
+    "node_count": 6,
+    "type": "event",
+    "created": "2026-09-03 11:15:00",
+    "description": "Alex checked out a book about machine learning from the campus library.",
+    "poignancy": 5,
+    "embedding_key": "Alex checked out a book about machine learning from the campus library."
+  },
+  {
+    "node_count": 7,
+    "type": "thought",
+    "created": "2026-09-03 21:00:00",
+    "description": "Alex is interested in researching how people use AI assistants to organize daily tasks.",
+    "poignancy": 7,
+    "embedding_key": "Alex is interested in researching how people use AI assistants to organize daily tasks."
+  },
+  {
+    "node_count": 8,
+    "type": "chat",
+    "created": "2026-09-04 10:30:00",
+    "description": "Alex asked Professor Morgan about possible research projects involving AI assistants and user habits.",
+    "poignancy": 6,
+    "embedding_key": "Alex asked Professor Morgan about possible research projects involving AI assistants and user habits."
+  },
+  {
+    "node_count": 9,
+    "type": "event",
+    "created": "2026-09-04 18:00:00",
+    "description": "Alex attended a student club fair and signed up for the robotics club mailing list.",
+    "poignancy": 4,
+    "embedding_key": "Alex attended a student club fair and signed up for the robotics club mailing list."
+  },
+  {
+    "node_count": 10,
+    "type": "event",
+    "created": "2026-09-05 14:00:00",
+    "description": "Alex bought a notebook and sticky notes to organize research ideas.",
+    "poignancy": 5,
+    "embedding_key": "Alex bought a notebook and sticky notes to organize research ideas."
+  },
+  {
+    "node_count": 11,
+    "type": "thought",
+    "created": "2026-09-05 20:15:00",
+    "description": "Alex believes short daily work sessions are more sustainable than last-minute studying.",
+    "poignancy": 6,
+    "embedding_key": "Alex believes short daily work sessions are more sustainable than last-minute studying."
+  },
+  {
+    "node_count": 12,
+    "type": "chat",
+    "created": "2026-09-06 13:00:00",
+    "description": "Jordan invited Alex to a board game night on Friday at the student center.",
+    "poignancy": 5,
+    "embedding_key": "Jordan invited Alex to a board game night on Friday at the student center."
+  },
+  {
+    "node_count": 13,
+    "type": "event",
+    "created": "2026-09-07 09:45:00",
+    "description": "Alex drafted a proposal about whether reminders from AI assistants improve task completion.",
+    "poignancy": 7,
+    "embedding_key": "Alex drafted a proposal about whether reminders from AI assistants improve task completion."
+  },
+  {
+    "node_count": 14,
+    "type": "thought",
+    "created": "2026-09-07 17:30:00",
+    "description": "Alex decided the research project should compare AI reminders with ordinary phone notifications.",
+    "poignancy": 8,
+    "embedding_key": "Alex decided the research project should compare AI reminders with ordinary phone notifications."
+  },
+  {
+    "node_count": 15,
+    "type": "chat",
+    "created": "2026-09-08 12:00:00",
+    "description": "Alex and Priya agreed to study together on Tuesdays at 3 PM in the campus library.",
+    "poignancy": 7,
+    "embedding_key": "Alex and Priya agreed to study together on Tuesdays at 3 PM in the campus library."
+  },
+  {
+    "node_count": 16,
+    "type": "event",
+    "created": "2026-09-08 15:00:00",
+    "description": "Alex attended the first robotics club meeting in Engineering Hall.",
+    "poignancy": 5,
+    "embedding_key": "Alex attended the first robotics club meeting in Engineering Hall."
+  },
+  {
+    "node_count": 17,
+    "type": "event",
+    "created": "2026-09-09 08:50:00",
+    "description": "Alex submitted the first data science homework assignment before its deadline.",
+    "poignancy": 6,
+    "embedding_key": "Alex submitted the first data science homework assignment before its deadline."
+  },
+  {
+    "node_count": 18,
+    "type": "thought",
+    "created": "2026-09-09 19:20:00",
+    "description": "Alex found the data visualization section of the homework especially enjoyable.",
+    "poignancy": 5,
+    "embedding_key": "Alex found the data visualization section of the homework especially enjoyable."
+  },
+  {
+    "node_count": 19,
+    "type": "chat",
+    "created": "2026-09-10 11:00:00",
+    "description": "Professor Morgan suggested that Alex pilot the AI reminder study with ten volunteer participants.",
+    "poignancy": 8,
+    "embedding_key": "Professor Morgan suggested that Alex pilot the AI reminder study with ten volunteer participants."
+  },
+  {
+    "node_count": 20,
+    "type": "event",
+    "created": "2026-09-10 16:45:00",
+    "description": "Alex created a survey asking volunteers how useful and distracting they find digital reminders.",
+    "poignancy": 7,
+    "embedding_key": "Alex created a survey asking volunteers how useful and distracting they find digital reminders."
+  },
+  {
+    "node_count": 21,
+    "type": "event",
+    "created": "2026-09-11 13:30:00",
+    "description": "Alex met Jordan for lunch at Maple Cafe and ordered a vegetable sandwich.",
+    "poignancy": 4,
+    "embedding_key": "Alex met Jordan for lunch at Maple Cafe and ordered a vegetable sandwich."
+  },
+  {
+    "node_count": 22,
+    "type": "chat",
+    "created": "2026-09-11 13:50:00",
+    "description": "Alex told Jordan about the AI reminder research project and the planned volunteer survey.",
+    "poignancy": 6,
+    "embedding_key": "Alex told Jordan about the AI reminder research project and the planned volunteer survey."
+  },
+  {
+    "node_count": 23,
+    "type": "event",
+    "created": "2026-09-11 18:30:00",
+    "description": "Alex attended board game night with Jordan and Priya at the student center.",
+    "poignancy": 5,
+    "embedding_key": "Alex attended board game night with Jordan and Priya at the student center."
+  },
+  {
+    "node_count": 24,
+    "type": "thought",
+    "created": "2026-09-12 10:00:00",
+    "description": "Alex considers Jordan and Priya close friends who provide encouragement during busy weeks.",
+    "poignancy": 7,
+    "embedding_key": "Alex considers Jordan and Priya close friends who provide encouragement during busy weeks."
+  },
+  {
+    "node_count": 25,
+    "type": "event",
+    "created": "2026-09-12 15:40:00",
+    "description": "Alex prepared a spreadsheet to track survey responses from the AI reminder pilot study.",
+    "poignancy": 6,
+    "embedding_key": "Alex prepared a spreadsheet to track survey responses from the AI reminder pilot study."
+  },
+  {
+    "node_count": 26,
+    "type": "event",
+    "created": "2026-09-13 09:30:00",
+    "description": "Alex spent the morning reading articles about attention and digital notifications.",
+    "poignancy": 4,
+    "embedding_key": "Alex spent the morning reading articles about attention and digital notifications."
+  },
+  {
+    "node_count": 27,
+    "type": "thought",
+    "created": "2026-09-13 17:15:00",
+    "description": "Alex suspects that reminders are most helpful when users can choose their frequency.",
+    "poignancy": 8,
+    "embedding_key": "Alex suspects that reminders are most helpful when users can choose their frequency."
+  },
+  {
+    "node_count": 28,
+    "type": "chat",
+    "created": "2026-09-14 14:00:00",
+    "description": "Priya suggested adding a survey question about whether reminders interrupt focused work.",
+    "poignancy": 6,
+    "embedding_key": "Priya suggested adding a survey question about whether reminders interrupt focused work."
+  },
+  {
+    "node_count": 29,
+    "type": "event",
+    "created": "2026-09-14 20:10:00",
+    "description": "Alex revised the survey to include a question about interruptions during focused work.",
+    "poignancy": 5,
+    "embedding_key": "Alex revised the survey to include a question about interruptions during focused work."
+  },
+  {
+    "node_count": 30,
+    "type": "event",
+    "created": "2026-09-15 11:30:00",
+    "description": "Alex presented the AI reminder pilot study plan during a research seminar.",
+    "poignancy": 7,
+    "embedding_key": "Alex presented the AI reminder pilot study plan during a research seminar."
+  },
+  {
+    "node_count": 31,
+    "type": "chat",
+    "created": "2026-09-15 12:15:00",
+    "description": "Professor Morgan advised Alex to define task completion clearly before collecting pilot data.",
+    "poignancy": 7,
+    "embedding_key": "Professor Morgan advised Alex to define task completion clearly before collecting pilot data."
+  },
+  {
+    "node_count": 32,
+    "type": "thought",
+    "created": "2026-09-16 18:00:00",
+    "description": "Alex decided to measure task completion as the percentage of assigned tasks finished by their deadlines.",
+    "poignancy": 8,
+    "embedding_key": "Alex decided to measure task completion as the percentage of assigned tasks finished by their deadlines."
+  },
+  {
+    "node_count": 33,
+    "type": "event",
+    "created": "2026-09-17 15:00:00",
+    "description": "Alex and Priya met at the library to review a data science practice exam.",
+    "poignancy": 6,
+    "embedding_key": "Alex and Priya met at the library to review a data science practice exam."
+  },
+  {
+    "node_count": 34,
+    "type": "chat",
+    "created": "2026-09-18 10:20:00",
+    "description": "Jordan asked Alex whether they wanted to attend the campus science exhibition on Saturday.",
+    "poignancy": 5,
+    "embedding_key": "Jordan asked Alex whether they wanted to attend the campus science exhibition on Saturday."
+  },
+  {
+    "node_count": 35,
+    "type": "event",
+    "created": "2026-09-19 13:00:00",
+    "description": "Alex attended the campus science exhibition with Jordan and viewed student robotics demonstrations.",
+    "poignancy": 5,
+    "embedding_key": "Alex attended the campus science exhibition with Jordan and viewed student robotics demonstrations."
+  },
+  {
+    "node_count": 36,
+    "type": "thought",
+    "created": "2026-09-20 16:30:00",
+    "description": "Alex hopes to finish the AI reminder pilot study report before the end of October.",
+    "poignancy": 7,
+    "embedding_key": "Alex hopes to finish the AI reminder pilot study report before the end of October."
+  },
+  {
+    "node_count": 37,
+    "type": "event",
+    "created": "2026-09-21 09:10:00",
+    "description": "Alex scheduled the first volunteer feedback sessions for the AI reminder pilot study.",
+    "poignancy": 6,
+    "embedding_key": "Alex scheduled the first volunteer feedback sessions for the AI reminder pilot study."
+  },
+  {
+    "node_count": 38,
+    "type": "chat",
+    "created": "2026-09-21 17:40:00",
+    "description": "Alex and Priya discussed how to summarize volunteer feedback without including identifying details.",
+    "poignancy": 6,
+    "embedding_key": "Alex and Priya discussed how to summarize volunteer feedback without including identifying details."
+  },
+  {
+    "node_count": 39,
+    "type": "event",
+    "created": "2026-09-22 12:30:00",
+    "description": "Alex worked on a chart comparing reminder preferences reported in the pilot survey.",
+    "poignancy": 5,
+    "embedding_key": "Alex worked on a chart comparing reminder preferences reported in the pilot survey."
+  },
+  {
+    "node_count": 40,
+    "type": "thought",
+    "created": "2026-09-22 21:00:00",
+    "description": "Alex thinks user control and clear timing are important design principles for helpful AI reminders.",
+    "poignancy": 8,
+    "embedding_key": "Alex thinks user control and clear timing are important design principles for helpful AI reminders."
+  }
+]
